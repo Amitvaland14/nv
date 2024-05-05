@@ -44,10 +44,11 @@ div#video {
 }
 
 div#video iframe {
-  width: 50px;
-  height: 100px;
+  width: 250px;
+  height: 170px;
   left: 20px;
 }
+/*
 div#video::before
 {
   content: '';
@@ -59,7 +60,7 @@ div#video::before
   height: 120px;
   background: linear-gradient(transparet, #45f3ff);
 }
-
+*/
 #people {
   position: absolute;
   bottom: 65px;
